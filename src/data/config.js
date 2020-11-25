@@ -1,5 +1,5 @@
 module.exports = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'V.Tereshchuk',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'John Doe',
   url: 'https://portfolio.smakosh.com',
